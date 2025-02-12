@@ -101,7 +101,7 @@ For different use cases, we provide distinct methods to use our program:
 
 <details>
   <summary>3. Graphic user interface</summary>
-视频安装步骤： https://www.bilibili.com/video/BV1H5NBe1ECU
+Video installation steps (Chinese version)： https://www.bilibili.com/video/BV1H5NBe1ECU
   
 1. Python installed (3.8 <= version <= 3.12)
 2. Install our package:
